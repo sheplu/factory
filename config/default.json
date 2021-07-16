@@ -1,0 +1,35 @@
+{
+    "move": {
+        "time": 5000
+    },
+    "mineFoo": {
+        "time": 1000
+    },
+    "mineBar": {
+        "minTime": 500,
+        "maxTime": 2000
+    },
+    "assemble": {
+        "time": 2000,
+        "failureRate": 40
+    },
+    "sell": {
+        "time": 10000,
+        "minSell": 1,
+        "maxSell": 5,
+        "price": 1
+    },
+    "buy": {
+        "price": 3,
+        "foo": 6,
+        "bar": 0,
+        "time": 0
+    },
+    "victory": {
+        "robot": 30
+    },
+    "speed": 1,
+    "start": {
+        "robot": 2
+    }
+}
